@@ -59,8 +59,10 @@
 
   .title {
     padding-top: 20%;
-    /* padding-bottom: 20px; */
-    /* font-size: 3rem; */
+  }
+
+  .input {
+    width: 35vw;
   }
   .bottom {
     flex-direction: column;
